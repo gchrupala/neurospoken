@@ -44,6 +44,8 @@ Reading:
 Learning. MIT Press. Chapter 6:
 https://www.deeplearningbook.org/contents/mlp.html 
 
+Slides: [deep learning](1_deep_learning.pdf)
+
 ## Tuesday: Transformers
 
 Reading:
