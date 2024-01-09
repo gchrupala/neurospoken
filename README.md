@@ -67,7 +67,7 @@ Review. IEEE Journal of Selected Topics in Signal Processing, 16,
 
 Slides: [transformers](2_transformers.pdf)
 
-Assignment: quiz
+Assignment: [Quiz](https://forms.gle/wfJAQRVBiHUMGFtW8)
 
 ## Thursday: Introduction to visually grounded models of spoken language
 
