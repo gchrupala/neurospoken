@@ -65,6 +65,8 @@ Watanabe, S. (2022). Self-Supervised Speech Representation Learning: A
 Review. IEEE Journal of Selected Topics in Signal Processing, 16,
 1179-1210. https://arxiv.org/pdf/2205.10643.pdf
 
+Slides: [transformers](2_transformers.pdf)
+
 Assignment: quiz
 
 ## Thursday: Introduction to visually grounded models of spoken language
