@@ -65,7 +65,9 @@ Watanabe, S. (2022). Self-Supervised Speech Representation Learning: A
 Review. IEEE Journal of Selected Topics in Signal Processing, 16,
 1179-1210. https://arxiv.org/pdf/2205.10643.pdf
 
-Assignment: quiz
+Slides: [transformers](2_transformers.pdf)
+
+Assignment: [Quiz](https://forms.gle/wfJAQRVBiHUMGFtW8)
 
 ## Thursday: Introduction to visually grounded models of spoken language
 
@@ -76,7 +78,7 @@ Reading:
   of Artificial Intelligence Research, 73,
   673-707. https://doi.org/10.1613/jair.1.12967  
 
-Assignment: Programming exercise
+Assignment: [Programming exercise](http://edu.nl/7xu9n)
 
 ## Friday: Dynamic visual grounding via video.  Understanding representations.
    
@@ -89,14 +91,14 @@ Reading:
 - Peng, P., Li, S., Rasanen, O., Mohamed, A., & Harwath,
   D.F. (2023). Syllable Discovery and Cross-Lingual Generalization in
   a Visually Grounded, Self-Supervised Speech Model. In
-  Interspeech. 10.21437/Interspeech.2023-2044 
+  Interspeech. https://doi.org/10.21437/Interspeech.2023-2044 
 
 Final assignment: Project report
 
 
 ## Assessment
 
-The [preparatory](prep.md) and [final]() assignments will be evaluated on a pass/fail basis. 
+The [preparatory](prep.md) and [final](final.md) assignments will be evaluated on a pass/fail basis. 
 With respect to the homework assignments during the course, we will check whether students hand in the assignments and, discuss the assignment in class. 
 The students will receive the preparatory assignment 4 weeks before the start of the school (by e-mail, CC to LOT@uva.nl). 
 The homework assignments during the course and the final assignment will be handed out in class.
