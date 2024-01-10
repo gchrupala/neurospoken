@@ -91,7 +91,7 @@ Reading:
 - Peng, P., Li, S., Rasanen, O., Mohamed, A., & Harwath,
   D.F. (2023). Syllable Discovery and Cross-Lingual Generalization in
   a Visually Grounded, Self-Supervised Speech Model. In
-  Interspeech. 10.21437/Interspeech.2023-2044 
+  Interspeech. https://doi.org/10.21437/Interspeech.2023-2044 
 
 Final assignment: Project report
 
