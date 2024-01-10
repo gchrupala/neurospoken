@@ -78,7 +78,7 @@ Reading:
   of Artificial Intelligence Research, 73,
   673-707. https://doi.org/10.1613/jair.1.12967  
 
-Assignment: Programming exercise
+Assignment: [Programming exercise](http://edu.nl/7xu9n)
 
 ## Friday: Dynamic visual grounding via video.  Understanding representations.
    
@@ -98,7 +98,7 @@ Final assignment: Project report
 
 ## Assessment
 
-The [preparatory](prep.md) and [final]() assignments will be evaluated on a pass/fail basis. 
+The [preparatory](prep.md) and [final](final.md) assignments will be evaluated on a pass/fail basis. 
 With respect to the homework assignments during the course, we will check whether students hand in the assignments and, discuss the assignment in class. 
 The students will receive the preparatory assignment 4 weeks before the start of the school (by e-mail, CC to LOT@uva.nl). 
 The homework assignments during the course and the final assignment will be handed out in class.
