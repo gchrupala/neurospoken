@@ -38,15 +38,18 @@ Preparatory reading material:
 
 ## Monday: Fundamental concepts of neural modeling. Multi-layer perceptrons, convolutional and recurrent networks.
 
+Slides: [deep learning](1_deep_learning.pdf)
+
 Reading:
 
 - Ian Goodfellow, Yoshua Bengio and Aaron Courville. 2016. Deep
 Learning. MIT Press. Chapter 6:
 https://www.deeplearningbook.org/contents/mlp.html 
 
-Slides: [deep learning](1_deep_learning.pdf)
 
 ## Tuesday: Transformers
+
+Slides: [transformers](2_transformers.pdf)
 
 Reading:
 
@@ -56,7 +59,9 @@ Reading:
   Need. NIPS. https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf 
 
 ## Wednesday: Self-supervised representation learning of spoken language
-   
+
+Slides: [Self-supervised](3_self_supervised.pdf)   
+
 Reading:
 
 - Mohamed, A., Lee, H., Borgholt, L., Havtorn, J.D., Edin, J., Igel,
@@ -65,11 +70,13 @@ Watanabe, S. (2022). Self-Supervised Speech Representation Learning: A
 Review. IEEE Journal of Selected Topics in Signal Processing, 16,
 1179-1210. https://arxiv.org/pdf/2205.10643.pdf
 
-Slides: [transformers](2_transformers.pdf)
+
 
 Assignment: [Quiz](https://forms.gle/wfJAQRVBiHUMGFtW8)
 
 ## Thursday: Introduction to visually grounded models of spoken language
+
+Slides: [Visually_grounded](4_visually_grounded.pdf)
 
 Reading:
 
@@ -80,7 +87,9 @@ Reading:
 
 Assignment: [Programming exercise](http://edu.nl/7xu9n)
 
-## Friday: Dynamic visual grounding via video.  Understanding representations.
+## Friday: Dynamic visual grounding via video.  
+
+Slides: [Video](video.pdf)
    
 Reading:
 
