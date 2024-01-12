@@ -22,14 +22,24 @@ You will submit a your work in the form a research paper.
 This report should follow the standard paper form
 with an introduction, related work, methods, results, and discussion. You are encouraged to use the following templates: 
 https://www.overleaf.com/read/crtcwgxzjskr or https://github.com/acl-org/ACLPUB/tree/master/templates
+
+Please make sure your paper complies with the following formatting guidelines:
+
+- Is the body of the paper (including figures, but excluding references) maximum 4 pages?
+- Does the paper have a title and your name on it?
+- It is divided into sections?
+- Does it use the APA citation style?
+
+
 The length of the report should be maximum *four pages* including figures, but excluding references.
 Any code and/or data should be stored externally and linked from the methods section of the paper.
 
 
 ## Submission
-This assignment should be handed in by sending it as a single **PDF** file to grzegorz+lot24@chrupala.me by the 
-deadline specified by your program, but no later than **8 March 2024**. Any questions about additional formalities related 
-to submissions should be directed to lot@uva.nl.
+This assignment should be handed in by submitting a PDF file via the following [form](https://forms.gle/BdjvAG3JrwCT68s76) by
+deadline specified by your program, but no later than **8 March 2024**. 
+
+Any questions about additional formalities related  to submission should be directed to lot@uva.nl.
 
 ## Evaluation criteria
 The assignment will be graded as **pass/fail** and you will not receive detailed feedback. However, keep in mind the following
