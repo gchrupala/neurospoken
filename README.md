@@ -89,7 +89,7 @@ Assignment: [Programming exercise](http://edu.nl/7xu9n)
 
 ## Friday: Dynamic visual grounding via video.  
 
-Slides: [Video](video.pdf)
+Slides: [Video](5_video.pdf)
    
 Reading:
 
@@ -102,7 +102,7 @@ Reading:
   a Visually Grounded, Self-Supervised Speech Model. In
   Interspeech. https://doi.org/10.21437/Interspeech.2023-2044 
 
-Final assignment: Project report
+Final assignment: [Project report](final.md)
 
 
 ## Assessment
