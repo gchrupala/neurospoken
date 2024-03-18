@@ -27,7 +27,7 @@ Please make sure your paper complies with the following formatting guidelines:
 
 - Is the body of the paper (including figures, but excluding references) maximum 4 pages?
 - Does the paper have a title and your name on it?
-- It is divided into sections?
+- Is it divided into sections?
 - Does it use the APA citation style?
 
 
